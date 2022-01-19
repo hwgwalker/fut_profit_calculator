@@ -6,4 +6,4 @@ This was an excellent test of my JavaScript knowledge, using event listeners, al
 
 The design for this was admittedly secondary, but I wanted to mirror the UX/UI of the Ultimate Team menus as best I could.
 
-A link to the project can be found at: 
+A link to the project can be found at: https://futprofitcalculator.netlify.app/
