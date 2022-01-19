@@ -1,4 +1,4 @@
-#FUT Profit Calculator
+# FUT Profit Calculator
 
 As someone who dabbles in a bit of FIFA Ultimate Team trading, I wanted to create a tool that keeps track of profit/loss as you go.
 
