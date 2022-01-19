@@ -1,0 +1,104 @@
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+body {
+  font-family: 'Anton', sans-serif;
+  background-image: url(imgs/FUT_bg.jpg);
+  background-size: cover;
+  text-transform: uppercase;
+  background-attachment: fixed;
+}
+
+.container {
+    background-color: #1C1F26;
+    padding: 2rem;
+    margin-top: 12rem;
+    border: 1px solid #556C95;
+    margin-bottom: 12rem;
+}
+
+h1 {
+    margin: 2rem;
+    margin-bottom: 3rem;
+    color: #4EE6EB;
+    font-size: 4rem;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+input {
+    margin: 0.75rem;
+    border-radius: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.input-row {
+  border-bottom: 1px solid #4EE6EB;
+}
+
+.data {
+  font-weight: bold;
+  color: #4EE6EB;
+}
+
+.costSection {
+  border: 1px solid #4EE6EB;
+  border-radius: 10px;
+  padding: 0.5rem;
+  margin: 0.75rem;
+  background-color: #262C38;
+}
+
+.coinsSection {
+  border: 1px solid #4EE6EB;
+  border-radius: 10px;
+  padding: 0.5rem;
+  margin: 0.75rem;
+  background-color: #262C38;
+}
+
+.profitSection {
+  border: 1px solid #4EE6EB;
+  border-radius: 10px;
+  padding: 0.5rem;
+  margin: 0.75rem;
+  background-color: #262C38;
+
+}
+
+#total {
+  font-family: 'Inter', sans-serif;
+  font-size: 1.2rem;
+}
+
+.coins {
+  font-family: 'Inter', sans-serif;
+  font-size: 1.2rem;
+}
+
+.profit {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.add {
+  margin: 1rem;
+  text-transform: uppercase;
+  background-color: #C4F750;
+  color: #262C38;
+}
+
+@media (max-width: 575.98px) { 
+  h1 {font-size: 3rem;}
+ }
